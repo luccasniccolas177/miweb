@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-10-16T03:19:52.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" etag="vGBwYshmZyko3m6trFOg" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-16T03:43:54.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" etag="d0Xt_irE2hG_WzAbtzaz" version="24.3.1" type="github">
   <diagram name="Página-1" id="Oi5Leu3sg0mWNB5zBhmv">
-    <mxGraphModel dx="1534" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,117 @@
         </mxCell>
         <mxCell id="m0GeRtSk-eMTPSvkRj59-30" value="Mensaje de confirmación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="880" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-31" value="Monitoreo de Dominios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-32" value="Visualización de dominio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-33" value="Interfaz de visualización" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-34" value="Ver estado del dominio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-35" value="Visualizar metricas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-36" value="Seleccionar las metricas por ver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-37" value="Seleccionar el tipo de grafico" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-38" value="Ver historial de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-39" value="Interfaz de datos historicos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-40" value="Seleccionar periodo de visualización" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-42" value="Generar un reporte de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-43" value="Comparar reportes o periodos de tiempo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-45" value="Gestión de Alarmas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-46" value="Configuración de alarmas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-47" value="Panel o interfaz de alarmas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-48" value="Definir umbrales de alarmas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-49" value="Seleccionar el tipo de alarma" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-50" value="Gestión de alertas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-51" value="Administrar alertas activas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-52" value="Historial de alarmas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-53" value="Automatización de alarmas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-54" value="Gestión de roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-55" value="Agregar usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-56" value="Formulario de datos del usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-57" value="Seleccionar tipo de rol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-58" value="Correo de invitación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-59" value="Editar usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-60" value="Modificar rol de usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-61" value="Panel de configuración de usuarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-63" value="Mensaje de cambio al usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-64" value="Eliminar usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-65" value="Botón de eliminar usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-66" value="Mensaje informativo al usuario eliminado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-67" value="Auditoria de usuarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-68" value="Lista de usuarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-69" value="Historial de usuarios (ingresos, salidas, modificaciones, etc)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0GeRtSk-eMTPSvkRj59-70" value="Historial de cambios en el dominio hecho por los usuarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
